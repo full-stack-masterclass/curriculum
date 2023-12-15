@@ -104,7 +104,8 @@ TBD
   - As a system administrator, I want the data to be saved securely so that we don't lose inventory and sales information.
   - As a store manager, I would like to have a login system to ensure that only authorized personnel can access sensitive data
 - **Technologies:** API, REST, HTTP, NodeJS, JS/Typescript
-- **Deliverable:** API, API Documentation
+- **Deliverable:** API, Open API Documentation
+
 
 #### Open source contribution
 
