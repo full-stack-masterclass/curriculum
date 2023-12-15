@@ -1,4 +1,4 @@
-# Full stack Master class
+# Full stack Master class 🚀
 
 This full stack master class is designed for junior developers and CS school graduates who wants to advance their career to mid-senior or senior level full stack developers.
 
