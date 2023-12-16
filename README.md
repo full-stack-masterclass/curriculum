@@ -25,11 +25,11 @@ You will validate your progress using 3 kind of activities:
 
 ## Requirements
 
-- You can dedicate a minimum of 24 hours per week
-- You speak English at a B1 level
+- You can dedicate a minimum of **24 hours** per week
+- You speak English at a **B1** level
 - You have basic CS knowledge
-- You know how to use CLI and Git
-- You can code in JS/Typescript or Python
+- You know how to use `CLI` and `Git`
+- You can code in `JS/Typescript` or `Python`
 
 ## MasterClass Project
 
