@@ -23,7 +23,7 @@
   - As a staff member, I want to add or remove books from an order to accommodate customer requests at the point of sale.
 - **Technologies:** API, REST, HTTP
 - **Deliverable:** API Runtime, Open API Documentation
-- **Submit the project:** Read [this](./how-to-submit.md)
+- **Submit the project:** Read [this](../../how-to-submit.md)
 
 
 ## Open source contribution
