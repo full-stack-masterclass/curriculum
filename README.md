@@ -12,15 +12,15 @@ The Full stack Master class curriculum consists of ? modules, spread over 6 mont
 
 You will validate your progress using 3 kind of activities:
 
-- Discover
+- **Discover**
     - Mastering core concepts
-- Demonstrate
+- **Demonstrate**
     - Practice algorithms
     - A project that starts from a basic application and evolves into a microservices-based complex application
     - Open source contributions
     - Tech writing & self brand
-- Mentoring
-    - Private weekly 1:1 mentoring
+- **Mentoring**
+    - Private 1:1 mentoring
 
 
 ## Requirements
