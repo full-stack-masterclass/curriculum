@@ -69,8 +69,6 @@ Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to t
     - Continue to work on your project if not finished
     - Demonstrate / Tech writing & self brand
 
-> Note: There is 1 week break each 6 weeks
-
 ## Modules 
 
 ### Module 1: Rest API
