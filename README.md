@@ -49,7 +49,7 @@ Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to t
     - Discover / Learn the concepts (we advice to take notes)
     - Demonstrate / Algorithm
 - **Tuesday**
-    - Discover / re-examine the concepts your learned
+    - Discover / re-examine the concepts you've learned
     - Join live QA session
     - Demonstrate / Algorithm
 - **Wednesday**
