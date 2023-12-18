@@ -4,7 +4,7 @@
 
 > If not already done please create an account in [leetcode.com](https://leetcode.com)
 
-- Every day solve one of the problems in this [list](https://leetcode.com/list?selectedList=pwxn6afr)
+- Every day solve one of the problems in this [list](https://leetcode.com/list/pwxn6afr)
 - Submit your solution in leetcode
 
 
