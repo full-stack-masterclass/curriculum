@@ -45,11 +45,11 @@ In this project you will act as Lily to help Bennett overcome the digital era ch
 Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to time box your days as following: 
 
 - **Monday**
-    - Say Hi in slack
+    - Say Hi [in slack](https://join.slack.com/t/fullstackmasterclass/shared_invite/zt-29cj6q8r4-5Ilo_YhwS3JaTsEtSmMA4w)
     - Discover / Learn the concepts (we advice to take notes)
     - Demonstrate / Algorithm
 - **Tuesday**
-    - Discover / re-examine the concepts you've learned
+    - Discover / Learn the concepts (we advice to take notes)
     - Join live QA session
     - Demonstrate / Algorithm
 - **Wednesday**
