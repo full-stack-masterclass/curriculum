@@ -80,7 +80,7 @@ Welcome to module 1, in this module you will design and build a REST API to mana
 
 | Week    | Discover | Demonstrate | 
 | -------- | ------- | ----------- |
-| Week 1  | [W1 Discover](./modules/week-1/discover.md)   | [W1 Demonstrate](./modules/week-2/demonstrate.md) |
+| Week 1  | [W1 Discover](./modules/week-1/discover.md)   | [W1 Demonstrate](./modules/week-1/demonstrate.md) |
 
 #### Learning goals
 
