@@ -40,6 +40,10 @@
 - [ ] We expect to see a `openapi.yaml` file representing the API Contract (Open API Specification V3) stored in root directory
 - [ ] The average response time for all API endpoints should be less than 100ms
 
+### Bonus
+- Automate your API tests by implementing [Schemathesis](https://schemathesis.readthedocs.io/en/stable/index.html) 
+
+
 
 ## Open source contribution
 
