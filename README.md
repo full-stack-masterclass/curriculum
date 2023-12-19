@@ -21,7 +21,7 @@ You will validate your progress using 3 kind of activities:
     - Tech writing & self brand
 - **Mentoring**
     - Join our Live QA sessions
-    - Private weekly 1:1 mentoring (extra cost)
+    - Private weekly 1:1 mentoring
 
 
 ## Requirements
@@ -32,10 +32,6 @@ You will validate your progress using 3 kind of activities:
 - You know how to use `CLI` and `Git`
 - You can code in `JS/Typescript` or `Python`
 
-
-## Cost
-
-- 249 € / module
 
 
 ## MasterClass Project
@@ -105,7 +101,9 @@ Welcome to module 1, in this module you will design and build a REST API to mana
 
 ### Module 2: Databases & Cache
 ### Module 3: CLI & Auth
-### Module 4: GraphQL
+### Module 4: Events
+### Module 5: GraphQL
+
 
 
 
