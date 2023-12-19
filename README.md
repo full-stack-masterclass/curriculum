@@ -71,7 +71,7 @@ Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to t
 
 ## Modules 
 
-### Module 1: Rest API
+### Module 1: API
 
 Welcome to module 1, in this module you will design and build a REST API to manage Bennett's bookstore.
 
