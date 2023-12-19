@@ -1,14 +1,14 @@
 # Full stack MasterClass 🚀
 
 
-This full stack master class is designed for junior developers and CS school graduates who wants to advance their career to mid-senior or senior level full stack developers.
+This full stack master class is designed for junior developers, CS school graduates and engineers transitioning to software development who wants to advance their career at senior/staff level.
 
-The curriculum involves a structured approach that focuses on both technical and soft skills.
+The curriculum involves a structured approach that focuses on leveling-up technical, soft-skills and leadership skills.
 
 
 ## Overview 
 
-The Full stack Master class curriculum consists of ? modules, spread over 6 months
+The Full stack Master class curriculum consists of 20 modules, that can be completed between 20 weeks or 40 weeks (part time)
 
 You will validate your progress using 3 kind of activities:
 
@@ -20,16 +20,23 @@ You will validate your progress using 3 kind of activities:
     - Open source contributions
     - Tech writing & self brand
 - **Mentoring**
-    - Private 1:1 mentoring
+    - Join our Live QA sessions
+    - Private weekly 1:1 mentoring (extra cost)
 
 
 ## Requirements
 
-- You can dedicate a minimum of **24 hours** per week
+- You can dedicate a minimum of **12 hours** per week
 - You speak English at a **B1** level
-- You have basic CS knowledge
+- You have a strong CS knowledge
 - You know how to use `CLI` and `Git`
 - You can code in `JS/Typescript` or `Python`
+
+
+## Cost
+
+- 249 € / module
+
 
 ## MasterClass Project
 
@@ -41,8 +48,10 @@ You will validate your progress using 3 kind of activities:
 In this project you will act as Lily to help Bennett overcome the digital era challenge 🔥
 
 ## How to study
+ 
+Each module have 2 main parts: `Discover` and `Demonstrate`.
 
-Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to time box your days as following: 
+For example if you want to complete a module in 1 week you, Ww advice your to time box your days as following: 
 
 - **Monday**
     - Say Hi [in slack](https://join.slack.com/t/fullstackmasterclass/shared_invite/zt-29cj6q8r4-5Ilo_YhwS3JaTsEtSmMA4w)
@@ -76,9 +85,9 @@ Each module have 2 main parts: `Discover` and `Demonstrate`. We advice your to t
 Welcome to module 1, in this module you will design and build a REST API to manage Bennett's bookstore.
 
 
-| Week    | Discover | Demonstrate | 
+| Topic    | Discover | Demonstrate | 
 | -------- | ------- | ----------- |
-| Week 1  | [W1 Discover](./modules/week-1/discover.md)   | [W1 Demonstrate](./modules/week-1/demonstrate.md) |
+| REST API  | [Discover](./modules/module-1/discover.md)   | [Demonstrate](./modules/module-1/demonstrate.md) |
 
 #### Learning goals
 
@@ -89,5 +98,17 @@ Welcome to module 1, in this module you will design and build a REST API to mana
 - Be able to do `runtime analysis`
 - Improve your Github profile
 - Make your first Open Source contribution
+
+
+
+> Note: Upcoming modules will be published soon
+
+### Module 2: Databases & Cache
+### Module 3: CLI & Auth
+### Module 4: GraphQL
+
+
+
+
 
 

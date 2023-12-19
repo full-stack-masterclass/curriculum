@@ -11,7 +11,7 @@
 ## Every week
 
 1. `git pull` on your main branch to get the latest version.
-2. Create a new branch for each week you have a project assignment. For example, for the assignment week 2, create a branch called `YOUR_NAME-w2`.
+2. Create a new branch for each week you have a project assignment (with this format: `YOUR-GITHUB-USERNAME/weekN`). For example, for the assignment of week 2 for my username it will be: `Amzani/week2`
 3. Complete your project
 4. Create the commit (`git commit`). Make the commit message meaningful
 5. Push the branch to your forked repository.
