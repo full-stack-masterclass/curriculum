@@ -1,4 +1,4 @@
-# How to submit your weekly projects
+# How to submit your projects
 
 
 ## One time setup
@@ -8,15 +8,15 @@
 3. Clone the repository.
 4. Navigate to your repository folder.
 
-## Every week
+## Every module
 
 1. `git pull` on your main branch to get the latest version.
-2. Create a new branch for each week you have a project assignment (with this format: `YOUR-GITHUB-USERNAME/weekN`). For example, for the assignment of week 2 for my username it will be: `Amzani/week2`
+2. Create a new branch for each module where you have a project assignment (with this format: `YOUR-GITHUB-USERNAME/module-N`). For example, for the assignment of module 2 for my username it will be: `Amzani/module-2`
 3. Complete your project
 4. Create the commit (`git commit`). Make the commit message meaningful
 5. Push the branch to your forked repository.
 6. On the GitHub page of your forked repository, click on the `create pull request` button. Make sure the `base repository` is the `fsm-projects-XYYYY` repository, on branch `main`.
-7. Give the pull request a title in the following format: `Assignment week N <Your name>` (N is week number)
+7. Give the pull request a title in the following format: `Assignment module N <Your name>` (N is module number)
 8. Submit the pull request from your forked repository branch into the `main` branch.
 
 
