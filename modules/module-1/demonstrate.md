@@ -36,6 +36,7 @@
 
 ### Non functional requirements
 
+- [ ] Your project use an [MVC architecture](https://www.scaler.com/topics/expressjs-tutorial/creating-mvc-architecture-for-restful-api/)
 - [ ] [Linting](https://eslint.org/docs/latest/use/getting-started) and [Tests](https://jestjs.io/docs/getting-started) present (for tests check also this [tutorial](https://medium.com/@natnael.awel/how-to-setup-testing-for-typescript-with-express-js-example-83d3efbb6fd4))
 - [ ] We expect to see a `openapi.yaml` file representing the API Contract (Open API Specification V3) stored in root directory
 - [ ] The average response time for all API endpoints should be less than 100ms
