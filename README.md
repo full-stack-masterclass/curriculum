@@ -95,14 +95,34 @@ Welcome to module 1, in this module you will design and build a REST API to mana
 - Improve your Github profile
 - Make your first Open Source contribution
 
+### Module: Javascript / Typescript
+### Module: Databases & Cache
+### Module: CLI & Auth
+### Module: Events
+### Module: GraphQL
+### Module: Design patterns
 
 
-> Note: Upcoming modules will be published soon
+### Module: Bash + Python
+### Module: Docker & K8s
+### Module: AWS
+### Module: CI/CD
+### Module: Terraform
+### Module: Grafana & Prometheuse
 
-### Module 2: Databases & Cache
-### Module 3: CLI & Auth
-### Module 4: Events
-### Module 5: GraphQL
+
+### Module: CSS/HTML
+### Module: Tailwind
+### Module: React
+### Module: NextJS
+
+
+Advanced
+
+### Module: DDD & Architecture
+### Module: ArgoCD
+### Module: Microfrontend
+### Module: Leadership
 
 
 
